@@ -1,6 +1,6 @@
 # Apple-Affiliate-Program-Example-buying-songs
 
-This is an example of how to buy songs using itunnes from an App 
+This is an example of how to buy songs using itunes from an App 
 
 
 
